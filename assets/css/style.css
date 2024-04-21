@@ -3,7 +3,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  background: #0c0b09;
+  background: #002427;
   color: #fff;
 }
 
@@ -145,7 +145,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: rgba(12, 11, 9, 0.6);
+  background: rgba(2, 48, 59, 0.404);
   border-bottom: 1px solid rgba(12, 11, 9, 0.6);
   transition: all 0.5s;
   z-index: 997;
@@ -155,7 +155,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #header.header-scrolled {
   top: 0;
-  background: rgba(0, 0, 0, 0.85);
+  background: rgba(2, 48, 59, 0.404);
   border-bottom: 1px solid #37332a;
 }
 
@@ -175,7 +175,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 80px;
 }
 
 /*--------------------------------------------------------------
